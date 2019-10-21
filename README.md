@@ -1,8 +1,4 @@
 
-#Software Setup
-
-##Aplication:
-
 
 
 
