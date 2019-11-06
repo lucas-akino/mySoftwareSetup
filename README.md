@@ -4,17 +4,37 @@
 > These are all the software I use in my day to day, 
 > both as a web developer and game developer, as in my everyday life.
 
+## Navigators
+
+- Google Chrome
+
+- Brave
+
+- Opera
+
+- Mozilla
+
 ## Develop Software:
 
 - Visual Studio Code
-
-- Blender 2.80
-
+  >**Extensions:**
+  >- [Activitus Bar.](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
+  >- [Auto Close Tag.](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+  >- [Bookmarks.](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+  >- [Bracket Pair Colorized.](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+  >- [Color Highlight.](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+  >- [Debugger for Java.](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
+  >- [Live Server.](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+  >- [React Native Tools.](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
+  >- [TODO Highlight.](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+  >- [Todo Tree.](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+  >- [Python.](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+  
 - Eclipse Java
 
-- Android Studio 
+- Net Beans
 
-- Figma
+- Android Studio 
 
 - Fritzing
 
@@ -24,17 +44,46 @@
 
 - FileZilla
 
-## Navigators
 
-- Google Chrome
+## Game Engines
 
-- Brave
+- Unity
 
+- Unreal
 
+- Godot 
 
+## Art Desing
 
+- Blender 2.80
 
+- Figma
 
+- Inkscape
+
+- Gravit Desing
+
+- JcPiker
+
+- Sprite Sheet Slicer
+
+- SketchBook
+
+- Piskel
+
+- Kuadro
+
+## Audiovisual Production
+
+- OBS
+
+- HitFilm
+
+- Epic Pen
+
+## Office
+
+- LibreOffice
 
 
 
