@@ -17,18 +17,21 @@
 ## Develop Software:
 
 - Visual Studio Code
-  >**Extensions:**
-  >- [Activitus Bar.](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
-  >- [Auto Close Tag.](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-  >- [Bookmarks.](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-  >- [Bracket Pair Colorized.](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-  >- [Color Highlight.](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
-  >- [Debugger for Java.](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
-  >- [Live Server.](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-  >- [React Native Tools.](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
-  >- [TODO Highlight.](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-  >- [Todo Tree.](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
-  >- [Python.](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+  - **Extensions:**
+    - [Activitus Bar.](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
+    - [Auto Close Tag.](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+    - [Bookmarks.](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+    - [Bracket Pair Colorized.](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+    - [Color Highlight.](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+    - [Debugger for Java.](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
+    - [Live Server.](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+    - [React Native Tools.](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
+    - [TODO Highlight.](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+    - [Todo Tree.](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+    - [Python.](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+  - **Theme:**
+    - [Sublime Material Theme](https://marketplace.visualstudio.com/items?itemName=jprestidge.theme-material-theme)
+    - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
   
 - Eclipse Java
 
