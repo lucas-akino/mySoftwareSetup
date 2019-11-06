@@ -1,33 +1,33 @@
 
-#Software Setup
+# Software Setup
 
 This 
 
-##Develop Software
+## Develop Software
 
-###Visual Studio Code
+### Visual Studio Code
 
-###Blender 2.80
+### Blender 2.80
 
-###Eclipse Java
+### Eclipse Java
 
-###Android Studio 
+### Android Studio 
 
-###Figma
+### Figma
 
-###Fritzing
+### Fritzing
 
-###Dia
+### Dia
 
-###Dev-C++
+### Dev-C++
 
-###FileZilla
+### FileZilla
 
-##Navigators
+## Navigators
 
-##Google Chrome
+## Google Chrome
 
-##Brave
+## Brave
 
 
 
