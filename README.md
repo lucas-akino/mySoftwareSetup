@@ -1,33 +1,34 @@
 
 # Software Setup
 
-This 
+> These are all the software I use in my day to day, 
+> both as a web developer and game developer, as in my everyday life.
 
-## Develop Software
+## Develop Software:
 
-### Visual Studio Code
+- Visual Studio Code
 
-### Blender 2.80
+- Blender 2.80
 
-### Eclipse Java
+- Eclipse Java
 
-### Android Studio 
+- Android Studio 
 
-### Figma
+- Figma
 
-### Fritzing
+- Fritzing
 
-### Dia
+- Dia
 
-### Dev-C++
+- Dev-C++
 
-### FileZilla
+- FileZilla
 
 ## Navigators
 
-## Google Chrome
+- Google Chrome
 
-## Brave
+- Brave
 
 
 
