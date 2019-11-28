@@ -22,8 +22,8 @@
   - **Extensions:**
     - [Activitus Bar.](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
     - [Auto Close Tag.](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-    - [Bookmarks.](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-    - [Bracket Pair Colorized.](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+    - [Bookmarks.](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+    - [Bracket Pair Colorized.](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
     - [Color Highlight.](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
     - [Debugger for Java.](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
     - [Live Server.](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
