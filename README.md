@@ -34,7 +34,6 @@
     - [Beautify.](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
     - [HTML CSS Support.](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
     - [JavaScript (ES6) code snippets.](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
-    - [JS-CSS-HTML Formatter.](https://marketplace.visualstudio.com/items?itemName=lonefy.vscode-JS-CSS-HTML-formatter)
     - [Terminal.](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
     - [TypeScript Importer.](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter)
     
