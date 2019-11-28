@@ -47,6 +47,19 @@
 
 - FileZilla
 
+- WebDeveloper:
+
+  - PostMan 
+
+  - MogoDB
+
+  - MySQL
+  
+  - Npm
+  
+  - Node.js
+  
+  - React.js
 
 ## Game Engines
 
