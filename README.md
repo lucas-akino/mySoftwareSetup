@@ -6,19 +6,19 @@
 
 ## Navigators
 
-- Google Chrome
+- [Google Chrome](https://www.google.com/chrome/index.html)
 
-- Brave
+- [Brave](https://brave.com/)
 
-- Opera
+- [Opera](https://www.opera.com/)
 
-- Mozilla
+- [Mozilla](https://www.mozilla.org/en-US/)
 
 ## Develop Software:
 
-- GIT
+- [GIT](https://git-scm.com/)
 
-- Visual Studio Code
+- [Visual Studio Code](https://code.visualstudio.com/)
   - **Extensions:**
     - [Activitus Bar.](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
     - [Auto Close Tag.](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
@@ -42,73 +42,73 @@
     - [Sublime Material Theme](https://marketplace.visualstudio.com/items?itemName=jprestidge.theme-material-theme)
     - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
   
-- Eclipse Java
+- [Eclipse Java](https://www.eclipse.org/downloads/)
 
-- Net Beans
+- [Net Beans](https://netbeans.apache.org/)
 
-- Android Studio 
+- [Android Studio](https://developer.android.com/studio) 
 
-- Fritzing
+- [Fritzing](https://fritzing.org/home/)
 
-- Dia
+- [Dia Diagram Editor](http://dia-installer.de/shapes/Database/index.html.en)
 
-- Dev-C++
+- [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)
 
-- FileZilla
+- [FileZilla](https://filezilla-project.org/)
 
 - **WebDeveloper:**
 
-  - PostMan 
+  - [PostMan](https://www.getpostman.com/) 
 
-  - MogoDB
+  - [MogoDB](https://www.mongodb.com/)
 
-  - MySQL
+  - [MySQL](https://www.mysql.com/)
   
-  - Npm
+  - [Npm](https://www.npmjs.com/get-npm)
   
-  - Node.js
+  - [Node.js](https://nodejs.org/en/)
   
-  - React.js
+  - [React.js](https://reactjs.org/)
 
 ## Game Engines
 
-- Unity
+- [Unity](https://unity3d.com/get-unity/download)
 
-- Unreal
+- [Unreal](https://www.unrealengine.com/en-US/what-is-unreal-engine-4)
 
-- Godot 
+- [Godot](https://godotengine.org/) 
 
 ## Art Desing
 
-- Blender 2.80
+- [Blender](https://www.blender.org/)
 
-- Figma
+- [Figma](https://www.figma.com/)
 
-- Inkscape
+- [Inkscape](https://inkscape.org/)
 
-- Gravit Desing
+- [Gravit Desing](https://www.designer.io/en/)
 
-- JcPiker
+- [JcPiker](https://download.cnet.com/Just-Color-Picker/3000-2191_4-10428271.html)
 
-- Sprite Sheet Slicer
+- [Sprite Sheet Slicer](https://isometric8.itch.io/sprite-sheet-slicer)
 
-- SketchBook
+- [SketchBook](https://www.sketchbook.com/)
 
-- Piskel
+- [Piskel](https://www.piskelapp.com/)
 
-- Kuadro
+- [Kuadro](http://kruelgames.com/tools/kuadro/)
 
 ## Audiovisual Production
 
-- OBS
+- [OBS](https://obsproject.com/)
 
-- HitFilm
+- [HitFilm](https://fxhome.com/hitfilm-express)
 
-- Epic Pen
+- [Epic Pen](https://epic-pen.com/)
 
 ## Office
 
-- LibreOffice
+- [LibreOffice](https://www.libreoffice.org/)
 
 
 
