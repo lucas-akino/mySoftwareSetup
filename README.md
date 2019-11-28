@@ -16,6 +16,8 @@
 
 ## Develop Software:
 
+- GIT
+
 - Visual Studio Code
   - **Extensions:**
     - [Activitus Bar.](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
