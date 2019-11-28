@@ -31,6 +31,13 @@
     - [TODO Highlight.](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
     - [Todo Tree.](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
     - [Python.](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+    - [Beautify.](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+    - [HTML CSS Support.](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+    - [JavaScript (ES6) code snippets.](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+    - [JS-CSS-HTML Formatter.](https://marketplace.visualstudio.com/items?itemName=lonefy.vscode-JS-CSS-HTML-formatter)
+    - [Terminal.](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
+    - [TypeScript Importer.](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter)
+    
   - **Theme:**
     - [Sublime Material Theme](https://marketplace.visualstudio.com/items?itemName=jprestidge.theme-material-theme)
     - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
