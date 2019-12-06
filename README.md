@@ -65,6 +65,12 @@
   
   - [Npm](https://www.npmjs.com/get-npm)
   
+    - **Packages**
+    
+      - [yargs](https://www.npmjs.com/package/yargs)
+      
+      - [colors](https://www.npmjs.com/package/colors)
+  
   - [Node.js](https://nodejs.org/en/)
   
   - [React.js](https://reactjs.org/)
