@@ -70,6 +70,10 @@
       - [yargs](https://www.npmjs.com/package/yargs)
       
       - [colors](https://www.npmjs.com/package/colors)
+      
+      - [axios](https://www.npmjs.com/package/axios)
+      
+      - [request](https://www.npmjs.com/package/request)
   
   - [Node.js](https://nodejs.org/en/)
   
