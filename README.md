@@ -76,6 +76,8 @@
       - [request](https://www.npmjs.com/package/request)
       
       - [express](https://www.npmjs.com/package/express)
+      
+      - [hbs](https://www.npmjs.com/package/hbs)
   
   - [Node.js](https://nodejs.org/en/)
   
