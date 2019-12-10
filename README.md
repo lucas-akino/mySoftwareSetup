@@ -67,6 +67,8 @@
   
     - **Packages**
     
+      - [nodemon](https://www.npmjs.com/package/nodemon)
+    
       - [yargs](https://www.npmjs.com/package/yargs)
       
       - [colors](https://www.npmjs.com/package/colors)
