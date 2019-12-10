@@ -78,6 +78,8 @@
       - [express](https://www.npmjs.com/package/express)
       
       - [hbs](https://www.npmjs.com/package/hbs)
+      
+      - [multer](https://www.npmjs.com/package/multer)
   
   - [Node.js](https://nodejs.org/en/)
   
