@@ -82,6 +82,8 @@
       - [hbs](https://www.npmjs.com/package/hbs)
       
       - [multer](https://www.npmjs.com/package/multer)
+      
+      - [uuid](https://www.npmjs.com/package/uuid)
   
   - [Node.js](https://nodejs.org/en/)
   
