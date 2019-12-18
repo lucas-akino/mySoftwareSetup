@@ -84,6 +84,8 @@
       - [multer](https://www.npmjs.com/package/multer)
       
       - [uuid](https://www.npmjs.com/package/uuid)
+      
+      - [body-parser](https://www.npmjs.com/package/body-parser)
   
   - [Node.js](https://nodejs.org/en/)
   
