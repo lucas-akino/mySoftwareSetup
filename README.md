@@ -86,6 +86,10 @@
       - [uuid](https://www.npmjs.com/package/uuid)
       
       - [body-parser](https://www.npmjs.com/package/body-parser)
+      
+      - [mongoose](https://www.npmjs.com/package/mongoose)
+      
+      - [mongoose-unique-validator](https://www.npmjs.com/package/mongoose-unique-validator)
   
   - [Node.js](https://nodejs.org/en/)
   
