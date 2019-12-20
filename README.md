@@ -90,6 +90,8 @@
       - [mongoose](https://www.npmjs.com/package/mongoose)
       
       - [mongoose-unique-validator](https://www.npmjs.com/package/mongoose-unique-validator)
+      
+      - [understand](https://underscorejs.org/)
   
   - [Node.js](https://nodejs.org/en/)
   
