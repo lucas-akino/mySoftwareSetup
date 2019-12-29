@@ -128,6 +128,8 @@
 
 - [Piskel](https://www.piskelapp.com/)
 
+- [GraphicsGale](https://graphicsgale.com/us)
+
 - [Kuadro](http://kruelgames.com/tools/kuadro/)
 
 ## Audiovisual Production
