@@ -92,6 +92,8 @@
       - [mongoose-unique-validator](https://www.npmjs.com/package/mongoose-unique-validator)
       
       - [understand](https://underscorejs.org/)
+      
+      - [JSONWebToken](https://www.npmjs.com/package/jsonwebtoken)
   
   - [Node.js](https://nodejs.org/en/)
   
