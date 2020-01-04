@@ -51,6 +51,8 @@
 
 - [Dia Diagram Editor](http://dia-installer.de/shapes/Database/index.html.en)
 
+- [Code::Block](http://www.codeblocks.org/)
+
 - [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)
 
 - [FileZilla](https://filezilla-project.org/)
