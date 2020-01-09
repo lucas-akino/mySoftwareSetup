@@ -57,6 +57,8 @@
 
 - [FileZilla](https://filezilla-project.org/)
 
+- [Hyper](https://hyper.is/)
+
 - **WebDeveloper:**
 
   - [PostMan](https://www.getpostman.com/) 
@@ -64,6 +66,8 @@
   - [MogoDB](https://www.mongodb.com/)
 
   - [MySQL](https://www.mysql.com/)
+  
+  - [XAMPP](https://www.apachefriends.org/download_success.html)
   
   - [Npm](https://www.npmjs.com/get-npm)
   
@@ -103,8 +107,8 @@
   
   - [Sass](https://sass-lang.com/)
   
-  - [XAMPP](https://www.apachefriends.org/download_success.html)
   - [draw.io](https://www.draw.io/)
+  
 
 ## Game Engines
 
