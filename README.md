@@ -121,6 +121,8 @@
 ## Art Desing
 
 - [Blender](https://www.blender.org/)
+   
+   - [LuxCore Render](https://luxcorerender.org/)
 
 - [Figma](https://www.figma.com/)
 
