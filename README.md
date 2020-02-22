@@ -41,6 +41,9 @@
     - [Sublime Material Theme](https://marketplace.visualstudio.com/items?itemName=jprestidge.theme-material-theme)
     - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
   
+  - **Fonts**
+    - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+  
 - [Eclipse Java](https://www.eclipse.org/downloads/)
 
 - [Net Beans](https://netbeans.apache.org/)
@@ -100,6 +103,8 @@
       - [understand](https://underscorejs.org/)
       
       - [JSONWebToken](https://www.npmjs.com/package/jsonwebtoken)
+      
+      - [PixiJS](https://www.pixijs.com/) 
   
   - [Node.js](https://nodejs.org/en/)
   
