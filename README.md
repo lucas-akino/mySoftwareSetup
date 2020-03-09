@@ -98,6 +98,8 @@
       
       - [mongoose](https://www.npmjs.com/package/mongoose)
       
+      - [moment.js](https://momentjs.com/)
+      
       - [mongoose-unique-validator](https://www.npmjs.com/package/mongoose-unique-validator)
       
       - [understand](https://underscorejs.org/)
